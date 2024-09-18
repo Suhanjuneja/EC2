@@ -38,8 +38,8 @@ AWS, or Amazon Web Services, is a comprehensive cloud computing platform provide
 
 16. type html code
 
-17. <html>
+17.  <html>
   hii
-</html>
+  </html>
 
 18.To run the code type - [control+c,shift+q, and press enter]
