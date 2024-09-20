@@ -12,6 +12,8 @@ AWS, or Amazon Web Services, is a comprehensive cloud computing platform provide
 
 3.For instance select Opertaing system(preferable LINUX-UBUNTU)
 
+![image alt](https://github.com/Suhanjuneja/EC2/blob/5326213ba7c86f7e16fb72120c1801ccf498308a/Screenshot%20(123).png)
+
 4.Make a Key pair( while making it select ppk type)
 
 5.launch the instance
