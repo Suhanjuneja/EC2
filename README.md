@@ -22,6 +22,9 @@ AWS, or Amazon Web Services, is a comprehensive cloud computing platform provide
 
 6.A public ip adress will be generated,copy this.
 
+![image alt](
+
+
 7.Install putty after that opt for ssh option paste the ip copied earlier ,then auth ,then credentials, then browse for the key you saved.
 
 8.A window will open type UBUNTU
