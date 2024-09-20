@@ -22,7 +22,7 @@ AWS, or Amazon Web Services, is a comprehensive cloud computing platform provide
 
 6.A public ip adress will be generated,copy this.
 
-![image alt](
+![image alt](![image](https://github.com/user-attachments/assets/34badb2e-cd47-40cf-92a9-76bb7929ea78)
 
 
 7.Install putty after that opt for ssh option paste the ip copied earlier ,then auth ,then credentials, then browse for the key you saved.
