@@ -16,6 +16,8 @@ AWS, or Amazon Web Services, is a comprehensive cloud computing platform provide
 
 4.Make a Key pair( while making it select ppk type)
 
+![image alt](https://github.com/Suhanjuneja/EC2/blob/2797d6d08bd3f397799b4a9c1da8caebfc0d99ae/Screenshot%20(125).png)
+
 5.launch the instance
 
 6.A public ip adress will be generated,copy this.
